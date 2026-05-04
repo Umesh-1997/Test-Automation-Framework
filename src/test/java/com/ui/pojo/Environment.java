@@ -9,8 +9,8 @@ public class Environment {
 		return MAX_NUMBER_OF_ATTEMPTS;
 	}
 
-	public void setMAX_NUMBER_OF_ATTEMPTS(int mAX_NUMBER_OF_ATTEMPTS) {
-		MAX_NUMBER_OF_ATTEMPTS = mAX_NUMBER_OF_ATTEMPTS;
+	public void setMAX_NUMBER_OF_ATTEMPTS(int MAX_NUMBER_OF_ATTEMPTS) {
+		MAX_NUMBER_OF_ATTEMPTS = MAX_NUMBER_OF_ATTEMPTS;
 	}
 
 	public String getUrl() {
